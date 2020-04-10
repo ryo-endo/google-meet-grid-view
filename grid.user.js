@@ -77,6 +77,11 @@
       highlightSpeaker: '強調發言者',
       includeOwnVideo: '將自己的視訊顯示於網格中',
     },
+    ja: {
+      showOnlyVideo: 'ビデオなしの参加者を非表示にする',
+      highlightSpeaker: '発言中の参加者をハイライトする',
+      includeOwnVideo: '自分のビデオを表示に含める',
+    },
   }
   const T = key =>
     navigator.languages
